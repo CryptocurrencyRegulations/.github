@@ -46,12 +46,15 @@ The systems I envisioned so far:
 
 🌈 Contribution guidelines -  
 To get involved is easy at this time,  
-idea, reviews for the content I write
-want to start building? choose the repo and find tickets or suggest tickets for approval.
+idea, reviews for the content I write  
+want to start building?  
+choose the repo and find tickets  
+or suggest tickets for approval.
+
 we will gradually build the rest around us.
 
 👩‍💻 Useful resources to look for  
-Peer to Peer knowledge. 
+Peer to Peer knowledge.  
 Blockchain and bitcoin knowledge.  
 
 🍿 Fun facts - 
