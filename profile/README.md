@@ -40,18 +40,23 @@ Also as a side affect the benefit of external services such as:
 
 The systems I envisioned so far:
 - Decentrelized Transaction Verifier Server
-- Decentrelized 
+- Decentrelized Crypto Identity & Creditability
+- Decentrelized Crypto Human ATM
 
 
 🌈 Contribution guidelines -  
-how can the community get involved?
+To get involved is easy at this time,  
+idea, reviews for the content I write
+want to start building? choose the repo and find tickets or suggest tickets for approval.
+we will gradually build the rest around us.
 
-👩‍💻 Useful resources -  
-where can the community find your docs? Is there anything else the community should know?
+👩‍💻 Useful resources to look for  
+Peer to Peer knowledge. 
+Blockchain and bitcoin knowledge.  
 
 🍿 Fun facts - 
-what does your team eat for breakfast?
+I know what this technology will achieve and I wonder what it will.
 
-🧙 Remember, you can do mighty things with the power of
+🧙 Remember, you can do mighty things with the power of you mind!
 
 
