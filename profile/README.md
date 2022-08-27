@@ -39,9 +39,9 @@ Also as a side affect the benefit of external services such as:
 # Decentrelized Regulation System
 
 The systems I envisioned so far:
-- Decentrelized Transaction Verifier Server
-- Decentrelized Crypto Identity & Creditability
-- Decentrelized Crypto Human ATM
+- [Decentrelized Transaction Verifier Server](https://github.com/CryptocurrencyRegulations/decentrelized-transaction-verifier-server)
+- [Decentrelized Crypto Identity & Creditability](https://github.com/CryptocurrencyRegulations/decentrelized-crypto-identity)
+- [Decentrelized Crypto Human ATM](https://github.com/CryptocurrencyRegulations/decentrelized-worldwide-cryptocurrency-human-atm)
 
 
 🌈 Contribution guidelines -  
