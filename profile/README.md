@@ -58,7 +58,7 @@ Peer to Peer knowledge.
 Blockchain and bitcoin knowledge.  
 
 🍿 Fun facts - 
-I know what this technology will achieve and I wonder what it will.
+I know what this technology can achieve and I wonder what it will.
 
 🧙 Remember, you can do mighty things with the power of you mind!
 
